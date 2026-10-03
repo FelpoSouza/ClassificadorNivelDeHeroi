@@ -21,4 +21,4 @@ let nivel = "Erro"
     }
 
 
-console.log("O Herói de nome " + nome + " está no nível " + nivel)
+console.log("O Herói de nome " + nome + " está no nível de" + nivel)
